@@ -2,8 +2,7 @@ body {
   font-family: "Montserrat", sans-serif;
   font-family: "Montserrat", sans-serif;
 }
-section {
-}
+
 .text-area {
   width: 50%;
   margin-top: 200px;
@@ -25,7 +24,7 @@ section {
   color: white;
   font-weight: lighter;
   margin-top: 20px;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .banner-area {
   width: 50%;
@@ -36,7 +35,7 @@ section {
   display: flex;
 }
 #About-Me-section {
-  background-image: url(/images/shapes/7.png);
+  background-image: url(images/shapes/7.png);
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -155,9 +154,8 @@ section {
   color: wheat;
   padding-left: 34%;
 }
-#footer-section h2{
-    color: gray;
-    font-size: 30px;
-    padding-left: 5%;
-  }
-  
+#footer-section h2 {
+  color: gray;
+  font-size: 30px;
+  padding-left: 5%;
+}
