@@ -138,15 +138,17 @@ body {
   border-radius: 30px;
   text-align: center;
   padding-left: 21%;
-  width: 75%;
+  width: 70%;
   height: 300px;
   display: flex;
   margin-bottom: 50px;
+  margin-left: 48px;
 }
 #Followers-section h2 {
-  padding: 50px;
+  /* padding: 50px; */
   font-size: 60px;
   font-weight: bold;
+  margin-right: 120px;
 }
 #footer-section {
   background-color: black;
@@ -158,4 +160,9 @@ body {
   color: gray;
   font-size: 30px;
   padding-left: 5%;
+}
+#Followers-section p {
+  padding-right: 101px;
+  margin-top: -40px;
+  font-weight: 700;
 }
